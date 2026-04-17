@@ -14,6 +14,7 @@ The core of LLZK is contained in [llzk-lib](https://github.com/project-llzk/llzk
 - Frontends:
     - [circom](https://github.com/project-llzk/circom)
     - [Halo2/PLONKish](https://github.com/project-llzk/haloumi)
+    - [airbender](https://github.com/project-llzk/airbender-llzk-frontend)
 
 - Backends:
     - [R1CS](https://github.com/project-llzk/llzk-lib/tree/main/backends/r1cs)
