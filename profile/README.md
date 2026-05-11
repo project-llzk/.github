@@ -28,3 +28,4 @@ The core of LLZK is contained in [llzk-lib](https://github.com/project-llzk/llzk
 - [Veridise](https://github.com/Veridise/)
 - [Ethereum Foundation](https://ethereum.foundation/)
 - [Galois](https://github.com/GaloisInc)
+- [reilabs](https://github.com/reilabs)
